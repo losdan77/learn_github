@@ -1,4 +1,8 @@
 hi boys
 1.txt
 new.txt
+<<<<<<< HEAD
 hi 1.txt
+=======
+hi new.txt
+>>>>>>> new.txt
